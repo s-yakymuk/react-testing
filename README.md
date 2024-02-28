@@ -11,7 +11,7 @@ The following libraries are used:
 
 ## Start application locally
 
-To start a local back end API execute the following commands in your terminal:
+To start a local back end API execute the following command in your terminal:
 
 ```
 npm run server
@@ -19,7 +19,7 @@ npm run server
 
 API will be available at http://localhost:3000/, you can change the dataset by editing `./src/server/db.json` file.
 
-To start client application (available at http://localhost:3000/) please execute:
+To start client application (available at http://localhost:5173/) please execute:
 
 ```
 npm run dev
